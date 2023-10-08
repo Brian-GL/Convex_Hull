@@ -6,3 +6,12 @@ C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug
 C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.csproj.GenerateResource.Cache
 C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.exe
 C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.pdb
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\bin\Debug\Convex_Hull.exe.config
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\bin\Debug\Convex_Hull.exe
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\bin\Debug\Convex_Hull.pdb
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.csproj.AssemblyReference.cache
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.MainForm.resources
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.csproj.GenerateResource.cache
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.csproj.CoreCompileInputs.cache
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.exe
+D:\INCO\Ingenieria En Computación\Algoritmia\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.pdb
