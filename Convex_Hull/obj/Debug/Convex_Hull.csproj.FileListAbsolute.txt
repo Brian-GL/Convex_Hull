@@ -1,0 +1,8 @@
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\bin\Debug\Convex_Hull.exe.config
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\bin\Debug\Convex_Hull.exe
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\bin\Debug\Convex_Hull.pdb
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.csprojResolveAssemblyReference.cache
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.MainForm.resources
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.csproj.GenerateResource.Cache
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.exe
+C:\Users\qwert\Documents\SharpDevelop Projects\Convex_Hull\Convex_Hull\obj\Debug\Convex_Hull.pdb
